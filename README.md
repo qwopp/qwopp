@@ -1,4 +1,4 @@
-<h1>Hi, I'm James 😼</h1>
+<h1>Hi, I'm James</h1>
 <p>
 <!--  
 TODO: fill in bio here
